@@ -42,7 +42,7 @@ The project is built using the following functionality:
 
 ## Testers
 
-1. 
+1. Linn
 2. 
 
 ## Feedback
